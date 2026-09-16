@@ -1,2 +1,3 @@
+# This is a comment added for repro-12
 line one
 line two
